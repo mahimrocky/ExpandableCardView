@@ -1,7 +1,7 @@
 #  ExpandableCardView Version 1.0.1
 
 Sample
-![Alt Text](https://github.com/mahimrocky/ExpandableCardView/gif/example.gif)
+![Alt Text](https://github.com/mahimrocky/ExpandableCardView/blob/master/gif/example.gif)
 
 Following instructions you have to follow to use Expandable Card view
 
